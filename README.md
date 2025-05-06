@@ -1,4 +1,3 @@
-# biz_ana
 # Hi, I'm Christo 👋
 
 Welcome to my portfolio. I'm a data-savvy consultant pivoting into analytics and visualization. I enjoy turning messy data into clear insights.
